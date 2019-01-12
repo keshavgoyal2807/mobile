@@ -1,0 +1,30 @@
+body{
+    box-sizing: border-box;
+}
+.cards{
+    position: absolute;
+    top:1000px;
+    width:100%;
+    height:1000px;
+    padding: 10px;
+}
+
+.row1{
+    margin: 10px;
+    width:100%;
+    height:300px;
+}
+
+.col1{
+    width:50%;
+    margin: 5px;
+}
+
+.col2{
+    width:50%;
+    margin: 5px;
+}
+
+#card{
+    width: 90%;
+}
