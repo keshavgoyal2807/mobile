@@ -1,27 +1,30 @@
 body{
     box-sizing: border-box;
 }
-.cards{
+#cards{
     position: absolute;
-    top:1000px;
+    top:1200px;
     width:100%;
     height:1000px;
     padding: 10px;
+    border: 2px solid red;
 }
 
-.row1{
+#row1{
     margin: 10px;
     width:100%;
     height:300px;
 }
 
-.col1{
-    width:50%;
+#col1{
+    width:40%;
     margin: 5px;
+    float: right;
 }
 
-.col2{
-    width:50%;
+#col2{
+    float:left;
+    width:40%;
     margin: 5px;
 }
 
