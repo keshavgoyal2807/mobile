@@ -17,4 +17,14 @@ document.addEventListener('scroll',function () {
         timeout1.classList.add('timeout2');
     }
     x=window.scrollY;
-    })
+    });
+
+var login = document.querySelector('.login');
+var login1 = document.querySelector('.login1');
+var login2 = document.querySelector('.login2');
+login.addEventListener('click',function () {
+    console.log('ada');
+    login2.classList.toggle('login1add');
+    login1.classList.toggle('login1add');
+    login.classList.toggle('loginadd');
+});
