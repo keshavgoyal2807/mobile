@@ -34,8 +34,8 @@ body{
     position: fixed;
     top:78%;
     right: 3%;
-    width:5%;
-    height:5%;
+    width:8%;
+    height:8%;
     transform:translateY(10%);
     opacity:0;
     transition: all 0.5s;
@@ -44,8 +44,8 @@ body{
     position: fixed;
     top:65%;
     right: 3%;
-    width:5%;
-    height:5%;
+    width:8%;
+    height:8%;
     transform:translateY(20%);
     opacity:0;
     transition: all 0.5s;
@@ -63,7 +63,7 @@ body{
 .p1{
     position: fixed;
     top:80%;
-    right: 10%;
+    right: 14%;
     opacity:0;
     transition: all 0.5s;
 }
