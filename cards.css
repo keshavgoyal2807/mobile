@@ -26,16 +26,16 @@ body{
     position: fixed;
     top:88%;
     right: 2%;
-    width:60px;
-    height:60px;
+    width:10%;
+    height:10%;
 }
 
 .login1{
     position: fixed;
     top:78%;
     right: 3%;
-    width:8%;
-    height:8%;
+    width:10%;
+    height:10%;
     transform:translateY(10%);
     opacity:0;
     transition: all 0.5s;
@@ -44,8 +44,8 @@ body{
     position: fixed;
     top:65%;
     right: 3%;
-    width:8%;
-    height:8%;
+    width:10%;
+    height:10%;
     transform:translateY(20%);
     opacity:0;
     transition: all 0.5s;
@@ -63,7 +63,7 @@ body{
 .p1{
     position: fixed;
     top:80%;
-    right: 14%;
+    right: 13%;
     opacity:0;
     transition: all 0.5s;
 }
@@ -71,7 +71,7 @@ body{
 .p2{
     position: fixed;
     top:67%;
-    right: 14%;
+    right: 13%;
     opacity:0;
     transition: all 0.5s;
 }
