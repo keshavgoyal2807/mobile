@@ -37,6 +37,7 @@ var w = $(window).width();
 var h = $(window).height();
 
 $(".logodiv").css("margin-left",w/2 - 100)
+$(".countdown").css("margin-left",w/4)
 $(".logodiv").css("margin-top",h/2-100)
 
 $(window).resize(function(){
