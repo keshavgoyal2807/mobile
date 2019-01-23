@@ -32,3 +32,16 @@ login.addEventListener('click',function () {
     p1.classList.toggle('padd');
     login.classList.toggle('loginadd');
 });
+
+var w = $(window).width();
+var h = $(window).height();
+
+$(".logodiv").css("margin-left",w/2 - 100)
+$(".logodiv").css("margin-top",h/2-100)
+
+$(window).resize(function(){
+    var w1 = $(window).width();
+var h1 = $(window).height();
+    $(".logodiv").css("margin-left",w1/2 - 100)
+    $(".logodiv").css("margin-top",h1/2-100) 
+})

@@ -15,7 +15,7 @@
    version="1.1"
    id="svg488"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="login123new.svg">
+   sodipodi:docname="login123.svg">
   <defs
      id="defs482" />
   <sodipodi:namedview
@@ -25,11 +25,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="45.254834"
-     inkscape:cx="10.502148"
-     inkscape:cy="6.0009908"
+     inkscape:zoom="256"
+     inkscape:cx="1.8228448"
+     inkscape:cy="0.4729502"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer1-5"
      showgrid="false"
      units="px"
      showborder="false"
@@ -46,7 +46,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -64,12 +64,12 @@
          cy="198.42303"
          cx="99.634529"
          id="path963"
-         style="fill:#f2f2f2;fill-opacity:1;stroke-width:0.26458332" />
+         style="fill:#000000;fill-opacity:1;stroke-width:0.26458332" />
       <path
          inkscape:connector-curvature="0"
          id="rect938-6"
-         d="m 110.43053,257.01038 v -48.01892 h 49.52886 V 190.95811 H 110.43053 V 138.32604 H 92.397485 v 52.63207 H 41.274939 v 18.03335 h 51.122546 v 48.01892 z"
-         style="fill:#000000;fill-opacity:1;stroke-width:0.1467828" />
+         d="m 110.43053,257.01038 v -48.01892 h 49.52886 V 190.95811 H 110.43053 V 138.32604 H 92.397486 v 52.63207 h -51.12255 v 18.03335 h 51.12255 v 48.01892 z"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.1467828" />
     </g>
   </g>
 </svg>
