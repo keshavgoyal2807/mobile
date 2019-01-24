@@ -1,23 +1,12 @@
 td{
 
-    text-align: center;
+      text-align: center;
 
-  }
+    }
 
-  .icon{
+    .icon{
 
-    height: 32px;
-    width: 32px;
+      height: 32px;
+      width: 32px;
 
-  }
-
-  .timeout{
-      opacity:0;
-      transform: translateY(-100%);
-      transition: all 0.5s;
-  }
-
-  .timeout2{
-      opacity:1;
-      transform: translateY(0);
-  }
+    }

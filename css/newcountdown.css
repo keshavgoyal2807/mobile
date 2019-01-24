@@ -1,8 +1,9 @@
 #countdown{
-	width: 100%;
+	width: 50%;
 	text-align:center;
 	position: absolute;
-	padding-left:10%;
+	left:36.5%;
+	right:36.5%;
 	color:white;
 	bottom: 0px;
 	display: flex;
@@ -12,8 +13,7 @@
   color: #2799ff;
   font-size: 32px;
   line-height: 1em;
-	margin:20px;
-	margin-bottom: 40px;
+  margin:30px;
 }
 .wday{
   margin-top: 12px;
